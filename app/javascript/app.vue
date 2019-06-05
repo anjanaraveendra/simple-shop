@@ -24,7 +24,7 @@ export default {
     return {
       message: 'Simple Shop',
       productsPerRow: 3,
-      products: null
+      products: []
     }
   },
 
